@@ -1,0 +1,36 @@
+body{
+    font-size: 20px;
+    hr{
+        border-color: white;
+        border-style: dotted none none;
+        border-width: 5px;
+        width: 5%;
+        }
+    color:white;
+    background-color: rgb(60, 99, 60);
+    }
+    table, td, th {
+    border: 1px solid white;
+    border-collapse: collapse;
+    padding: 5px;
+    background-color:rgb(60, 99, 60) ;
+    }
+    th{
+    background: rgb(60, 99, 60);
+    }
+    *{
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;;
+    }
+    .sobre_mim{
+        display:flex;
+    }
+    .detalhes{
+        margin-left: 10px;
+    }
+
+    img{
+        width: 200px;
+        border-radius: 50%;
+    }
