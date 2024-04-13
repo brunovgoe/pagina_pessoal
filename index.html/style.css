@@ -7,16 +7,16 @@ body{
         width: 5%;
         }
     color:white;
-    background-color: rgb(60, 99, 60);
+    background-color: rgb(18, 137, 99);
     }
     table, td, th {
     border: 1px solid white;
     border-collapse: collapse;
     padding: 5px;
-    background-color:rgb(60, 99, 60) ;
+    background-color:rgb(18, 137, 99) ;
     }
     th{
-    background: rgb(60, 99, 60);
+    background: rgb(18, 137, 99);
     }
     *{
     font-family: "Poppins", sans-serif;
